@@ -1,0 +1,19 @@
+language: node_js
+node_js:
+  - "6.6"
+  - "9.0"
+  - "10.0"
+
+cache:
+  yarn: true
+  directories:
+    - node_modules
+
+install:
+  - npm install
+
+# script:
+#   - npm run cover
+
+# after_success:
+#   - npm run codecov
