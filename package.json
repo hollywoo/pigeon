@@ -1,0 +1,25 @@
+{
+  "name": "node-pigeon",
+  "version": "1.0.0",
+  "description": "Package to implement microservices reliability patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogodadalt/node-pigeon.git"
+  },
+  "keywords": [
+    "microservices",
+    "reliability",
+    "request",
+    "http"
+  ],
+  "author": "Diogo Rigolli Dadalt<diogodadalt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogodadalt/node-pigeon/issues"
+  },
+  "homepage": "https://github.com/diogodadalt/node-pigeon#readme"
+}
