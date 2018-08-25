@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/hollywoo/node-pigeon/issues"
   },
-  "homepage": "https://github.com/hollywoo/node-pigeon#readme"
+  "homepage": "https://github.com/hollywoo/node-pigeon#readme",
+  "dependencies": {
+    "circuit-breaker-js": "^0.0.1"
+  }
 }
